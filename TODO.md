@@ -1,0 +1,22 @@
+# TODO List for Static Lecture Website
+
+- [x] Create index.html with navigation and list of meetings
+- [x] Create css/style.css for responsive styling
+- [ ] Create pages/pertemuan1.html with content for Meeting 1
+- [ ] Create pages/pertemuan2.html with content for Meeting 2
+- [ ] Create pages/pertemuan3.html with content for Meeting 3
+- [x] Create pages/pertemuan4.html with content for Meeting 4
+- [x] Create pages/pertemuan5.html with content for Meeting 5
+- [x] Create pages/pertemuan6.html with content for Meeting 6
+- [ ] Create pages/pertemuan7.html with content for Meeting 7
+- [x] Create pages/pertemuan8.html with content for Meeting 8
+- [ ] Create pages/pertemuan9.html with content for Meeting 9
+- [x] Create pages/pertemuan10.html with content for Meeting 10
+- [x] Create pages/pertemuan11.html with content for Meeting 11
+- [ ] Create pages/pertemuan12.html with content for Meeting 12
+- [x] Create pages/pertemuan13.html with content for Meeting 13
+- [ ] Create pages/pertemuan14.html with content for Meeting 14
+- [x] Update navigation in all pages to include meetings 6-14
+- [x] Update index.html to list all 14 meetings
+- [x] Create js/script.js for optional interactivity
+- [x] Test website by opening index.html in browser
